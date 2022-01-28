@@ -1,6 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2022-01-27
 ---
 
 This is my first blog posting
